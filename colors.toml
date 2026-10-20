@@ -1,0 +1,38 @@
+# Generated for Omarchy v4 — Lancia Stratos HF Group 4 (Alitalia Livery)
+mode = "dark"
+
+accent = "#12a153"
+selection = "#1b2623"
+selection_foreground = "#0e1513"
+muted = "#4e6b62"
+
+background = "#0e1513"
+dark_background = "#090e0c"
+darker_background = "#060a08"
+lighter_background = "#1b2623"
+
+foreground = "#ebf2ed"
+dark_foreground = "#a6b5ad"
+light_foreground = "#f2f7f4"
+bright_foreground = "#ffffff"
+
+red = "#d9232e"
+yellow = "#d4af37"
+orange = "#e67e22"
+green = "#008c45"
+cyan = "#17a2b8"
+blue = "#1f6f8b"
+magenta = "#e84393"
+brown = "#8c533e"
+
+bright_red = "#ff4455"
+bright_yellow = "#fcd34d"
+bright_green = "#1fd672"
+bright_cyan = "#38bdf8"
+bright_blue = "#3b82f6"
+bright_magenta = "#f472b6"
+
+# ── Alitalia Racing Livery Border Gradients ──────────────────────────────────
+# 7-stop vinyl stripes: Alitalia Green -> White -> Scarlet Red -> Campagnolo Gold -> Scarlet Red -> White -> Alitalia Green
+hyprland_active_border = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+hyprland_inactive_border = "rgba(008C4555) rgba(D9232E33) rgba(D4AF3733) rgba(008C4555) 45deg"

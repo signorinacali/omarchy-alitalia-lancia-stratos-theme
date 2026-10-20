@@ -1,0 +1,117 @@
+# Omarchy Shell Styling — Lancia Stratos HF Group 4 (Alitalia Livery)
+
+[bar]
+background       = "#0e1513"
+background-alpha = 0.88
+text             = "#ebf2ed"
+active           = "#d9232e"
+scale-with-font  = true
+size-horizontal  = 28
+size-vertical    = 30
+
+[hyprland]
+active-border            = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+active-border-foreground = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+
+[controls]
+normal-color        = "#ebf2ed"
+normal-fill-alpha   = 0.05
+normal-border       = "#008c45"
+normal-border-width = 1
+normal-border-alpha = 0.35
+
+hover-cursor-color        = "#d4af37"
+hover-cursor-fill-alpha   = 0.12
+hover-cursor-border       = "#d4af37"
+hover-cursor-border-width = 1
+hover-cursor-border-alpha = 0.6
+
+focus-color        = "#12a153"
+focus-fill-alpha   = 0.12
+focus-border       = "#12a153"
+focus-border-width = 1
+focus-border-alpha = 0.6
+
+selected-color        = "#12a153"
+selected-fill-alpha   = 0.22
+selected-border       = "#008c45"
+selected-border-width = 1
+selected-border-alpha = 0.85
+
+pressed-fill-alpha   = 0.28
+selection-fill-alpha = 0.40
+
+[popups]
+background       = "#090e0c"
+background-alpha = 0.96
+text             = "#ebf2ed"
+border           = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+border-alpha     = 1.0
+
+[tooltip]
+background       = "#090e0c"
+background-alpha = 0.96
+text             = "#ebf2ed"
+border           = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+border-alpha     = 1.0
+
+[notifications]
+background       = "#090e0c"
+background-alpha = 0.96
+text             = "#ebf2ed"
+border           = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+border-alpha     = 1.0
+countdown        = "#12a153"
+
+[launcher]
+background                = "#090e0c"
+background-alpha          = 0.94
+text                      = "#ebf2ed"
+border                    = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+border-alpha              = 1.0
+scrim                     = "#060a08"
+scrim-alpha               = 0.55
+selected-background       = "#1b2623"
+selected-background-alpha = 0.6
+selected-text             = "#12a153"
+selected-border           = "#008c45"
+selected-border-alpha     = 0.8
+
+[menu]
+background                = "#090e0c"
+background-alpha          = 0.96
+text                      = "#ebf2ed"
+border                    = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+border-alpha              = 1.0
+scrim                     = "#060a08"
+scrim-alpha               = 0.55
+selected-background       = "#1b2623"
+selected-background-alpha = 0.6
+selected-text             = "#12a153"
+selected-border           = "#008c45"
+selected-border-alpha     = 0.8
+
+[polkit]
+background       = "#090e0c"
+background-alpha = 0.96
+text             = "#ebf2ed"
+text-error       = "#d9232e"
+border           = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+border-error     = "#d9232e"
+border-alpha     = 1.0
+scrim            = "#060a08"
+scrim-alpha      = 0.55
+accent           = "#12a153"
+
+[lock]
+background       = "#090e0c"
+background-alpha = 0.85
+text             = "#ebf2ed"
+placeholder      = "#4e6b62"
+text-error       = "#d9232e"
+border           = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+border-active    = "rgba(008C45F2) rgba(FFFFFFF2) rgba(D9232EF2) rgba(D4AF37F2) rgba(D9232EF2) rgba(FFFFFFF2) rgba(008C45F2) 45deg"
+border-error     = "#d9232e"
+border-alpha     = 1.0
+selection        = "#12a153"
+selection-alpha  = 0.45

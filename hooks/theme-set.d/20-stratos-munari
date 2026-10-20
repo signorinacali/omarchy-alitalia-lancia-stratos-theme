@@ -1,0 +1,13 @@
+#!/bin/bash
+# 🏁 Lancia Stratos HF Group 4 — Sandro Munari Tribute Easter Egg
+# Triggered by Omarchy hook on theme-set
+
+THEME_SLUG="${1:-}"
+
+case "$THEME_SLUG" in
+  *stratos*|*alitalia*)
+    notify-send -u normal -a "Lancia Reparto Corse" \
+      "🏁 Sandro Munari — Rallye Monte-Carlo" \
+      "\"Stratospheric!\" Car #1 cleared the Col de Turini.\n🏆 Hat-trick champion: 1975 • 1976 • 1977"
+    ;;
+esac
