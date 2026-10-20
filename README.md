@@ -1,4 +1,4 @@
-# 🏁 Alitalia Lancia Stratos HF Group 4 — Omarchy Theme
+# Alitalia Lancia Stratos HF Group 4 — Omarchy Theme
 
 ![Preview](preview.png)
 
@@ -8,7 +8,7 @@ Honoring Sandro Munari (*"Il Drago"*) and Silvio Maiga's historic Monte Carlo Ra
 
 ---
 
-## ⚡ Quick Install
+## Quick Install
 
 Install directly via the Omarchy CLI:
 
@@ -20,7 +20,7 @@ Omarchy will automatically clone the theme, generate matching configurations acr
 
 ---
 
-## 🎨 Color Palette
+## Color Palette
 
 | Swatch | Color Name | Hex Code | Role |
 |:---:|---|---|---|
@@ -34,7 +34,7 @@ Omarchy will automatically clone the theme, generate matching configurations acr
 
 ---
 
-## 🏁 Rotating Alitalia Livery Border & Curved Windows (Hyprland Rice)
+## Rotating Alitalia Livery Border & Curved Windows (Hyprland Rice)
 
 For the full motorsport rice experience — including **rounded windows**, **3px border width**, and the **continuously rotating 7-stop Alitalia + Campagnolo Gold ribbon** — add this block to your `~/.config/hypr/hyprland.lua` (or `~/.config/hypr/looknfeel.lua`):
 
@@ -102,7 +102,7 @@ hl.animation({
 
 ---
 
-## 📊 Wayland Bar Styling (`shell.toml`)
+## Wayland Bar Styling (`shell.toml`)
 
 This theme includes custom `shell.toml` styling tailored for the Omarchy Shell bar and surface popups:
 * **Translucent Asphalt Bar**: Replaces plain white surfaces with deep cockpit tarmac (`#0E1513` @ 88% opacity).
@@ -112,7 +112,7 @@ This theme includes custom `shell.toml` styling tailored for the Omarchy Shell b
 
 ---
 
-## 🏆 Sandro Munari Monte Carlo Easter Egg
+## Sandro Munari Monte Carlo Easter Egg
 
 Included in `hooks/theme-set.d/20-stratos-munari`: whenever this theme is applied, an authentic tribute notification triggers to celebrate Sandro Munari's legendary Col de Turini run:
 
@@ -124,13 +124,13 @@ chmod +x ~/.config/omarchy/hooks/theme-set.d/20-stratos-munari
 ```
 
 Notification Preview:
-> **🏁 Sandro Munari — Rallye Monte-Carlo**  
+> **Sandro Munari — Rallye Monte-Carlo**  
 > *"Stratospheric!"* Car #1 cleared the Col de Turini.  
-> 🏆 Hat-trick champion: 1975 • 1976 • 1977
+> Hat-trick champion: 1975 • 1976 • 1977
 
 ---
 
-## 🖼️ Included Wallpapers
+## Included Wallpapers
 
 The theme includes 5 high-resolution wallpapers tailored for distinct desktop moods:
 
@@ -150,7 +150,7 @@ omarchy theme bg next
 
 ---
 
-## 🛠️ Manual Installation (Local)
+## Manual Installation (Local)
 
 If you have cloned this repository locally:
 
@@ -164,7 +164,7 @@ omarchy theme set "alitalia-lancia-stratos"
 
 ---
 
-## 📄 License
+## License
 
 Distributed under the [MIT License](LICENSE).  
 Wallpapers and rally imagery remain copyright of their respective creators and are included for personal desktop use.
